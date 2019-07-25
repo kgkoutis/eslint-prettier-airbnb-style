@@ -1,4 +1,6 @@
-# Instructions
+
+# Work with eslint, following prettier and airbnb style suggestions!
+## Instructions
 
 1. Execute
 ```bash
