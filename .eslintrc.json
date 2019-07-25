@@ -5,6 +5,6 @@
         "no-unused-vars":"warn",
         "object-shortcut:":"off",
         "prettier/prettier":"error",
-        "no-process-exit":"off",
+        "no-process-exit":"off"
     }
 }
